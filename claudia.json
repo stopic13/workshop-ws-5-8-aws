@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "workshop-ws-5-8-aws-saratopic-executor",
+    "name": "workshop-ws-5-8-aws-saratopic",
+    "region": "us-east-2"
+  }
+}
